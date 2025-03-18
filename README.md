@@ -31,5 +31,9 @@ Welcome to my GitHub profile! Here are my main projects and contributions:
 
 Feel free to explore my repositories and reach out if you have any questions! 🚀
 
+My stats:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaroltorres)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub followers](https://img.shields.io/github/followers/alvaroltorres?style=social)](https://github.com/alvaroltorres?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/alvaroltorres?style=social)](https://github.com/alvaroltorres?tab=repositories)
