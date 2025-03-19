@@ -7,16 +7,17 @@ Welcome to my GitHub profile! Here are my main projects and contributions:
     <th>Project Name</th>
     <th>Description</th>
     <th>Repository Link</th>
-  </tr>
+  </tr>![8-removebg-preview](https://github.com/user-attachments/assets/87e9089b-5ea0-405d-8d15-877f7cdca8f9)
+
   <tr>
     <td>GoX-App</td>
     <td>goX app</td>
-    <td><a href="https://github.com/GoXapp/GoX-App"><img src="https://github.com/user-attachments/assets/1f1a56ec-20a5-47e0-80a3-04a1f981e916" width="100" height="100" alt="GoX-App"/></a></td>
+    <td><a href="https://github.com/GoXapp/GoX-App"><img src="https://github.com/user-attachments/assets/87e9089b-5ea0-405d-8d15-877f7cdca8f9" width="100" height="100" alt="GoX-App"/></a></td>
   </tr>
   <tr>
     <td>GoX-App-backend</td>
     <td>Backend for the GoX-App</td>
-    <td><a href="https://github.com/GoXapp/GoX-App-backend"><img src="https://github.com/user-attachments/assets/1f1a56ec-20a5-47e0-80a3-04a1f981e916" width="100" height="100" alt="GoX-App-backend"/></a></td>
+    <td><a href="https://github.com/GoXapp/GoX-App-backend"><img src="https://github.com/user-attachments/assets/87e9089b-5ea0-405d-8d15-877f7cdca8f9" width="100" height="100" alt="GoX-App-backend"/></a></td>
   </tr>
   <tr>
     <td>electron-scan</td>
