@@ -40,6 +40,11 @@ Welcome to my GitHub profile! Here are my main projects and contributions:
     <td><a href="https://github.com/FEUP-LTW-2024/ltw-project-2024-ltw04g03"><img src="https://github.com/user-attachments/assets/1559bcc4-daf2-4593-9bb7-689de4cff0a1" width="100" height="100" alt="LDTS"/></a></td>
   </tr>
   <tr>
+    <td>BidZenith</td>
+    <td>Online auctions website</td>
+    <td><a href="https://github.com/alvaroltorres/lbaw2481"><img src="https://github.com/user-attachments/assets/6147ef05-80b3-4000-9356-36483233245b" width="100" height="100" alt="LDTS"/></a></td>
+  </tr>
+  <tr>
     <td>Abacus Board Game</td>
     <td>Adversarial Search Methods for Two-Player Board Games  (AI)</td>
     <td><a href="https://github.com/DiogoFerreira2004/Abacus">Link to Abacus</a></td>
