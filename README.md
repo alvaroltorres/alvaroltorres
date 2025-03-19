@@ -11,38 +11,37 @@ Welcome to my GitHub profile! Here are my main projects and contributions:
   <tr>
     <td>GoX-App</td>
     <td>goX app</td>
-    <td><a href="https://github.com/GoXapp/GoX-App"><img src="https://github.com/user-attachments/assets/87e9089b-5ea0-405d-8d15-877f7cdca8f9" width="100" height="100" alt="GoX-App"/></a></td>
+    <td style="text-align:center;"><a href="https://github.com/GoXapp/GoX-App"><img src="https://github.com/user-attachments/assets/87e9089b-5ea0-405d-8d15-877f7cdca8f9" width="100" height="100" alt="GoX-App"/></a></td>
   </tr>
   <tr>
     <td>GoX-App-backend</td>
     <td>Backend for the GoX-App</td>
-    <td><a href="https://github.com/GoXapp/GoX-App-backend"><img src="https://github.com/user-attachments/assets/87e9089b-5ea0-405d-8d15-877f7cdca8f9" width="100" height="100" alt="GoX-App-backend"/></a></td>
+    <td style="text-align:center;"><a href="https://github.com/GoXapp/GoX-App-backend"><img src="https://github.com/user-attachments/assets/87e9089b-5ea0-405d-8d15-877f7cdca8f9" width="100" height="100" alt="GoX-App-backend"/></a></td>
   </tr>
   <tr>
     <td>electron-scan</td>
     <td>HBK Device Discovery Electron app</td>
-    <td><a href="https://github.com/HBM/electron-scan"><img src="https://github.com/user-attachments/assets/22c565ec-7498-4a86-97b0-92378e283c1b" width="100" height="100" alt="electron-scan"/></a></td>
+    <td style="text-align:center;"><a href="https://github.com/HBM/electron-scan"><img src="https://github.com/user-attachments/assets/22c565ec-7498-4a86-97b0-92378e283c1b" width="100" height="100" alt="electron-scan"/></a></td>
   </tr>
   <tr>
     <td>Scan-App</td>
     <td>HBK scanning application</td>
-    <td><a href="https://github.com/HBM/Scan-App"><img src="https://github.com/user-attachments/assets/22c565ec-7498-4a86-97b0-92378e283c1b" width="100" height="100" alt="Scan-App"/></a></td>
+    <td style="text-align:center;"><a href="https://github.com/HBM/Scan-App"><img src="https://github.com/user-attachments/assets/22c565ec-7498-4a86-97b0-92378e283c1b" width="100" height="100" alt="Scan-App"/></a></td>
   </tr>
-
   <tr>
     <td>DigiWater mobile app</td>
     <td>Water Quality Reports</td>
-    <td><a href="https://github.com/FEUP-LEIC-ES-2023-24/2LEIC03T3"><img src="https://github.com/user-attachments/assets/f9fd9cc8-1ff2-4678-9ca6-3af443a78c28" width="100" height="100" alt="Software Engineering Course"/></a></td>
+    <td style="text-align:center;"><a href="https://github.com/FEUP-LEIC-ES-2023-24/2LEIC03T3"><img src="https://github.com/user-attachments/assets/f9fd9cc8-1ff2-4678-9ca6-3af443a78c28" width="100" height="100" alt="Software Engineering Course"/></a></td>
   </tr>
   <tr>
     <td>TechTudo</td>
     <td>Website for buying and selling of pre-loved phones</td>
-    <td><a href="https://github.com/FEUP-LTW-2024/ltw-project-2024-ltw04g03"><img src="https://github.com/user-attachments/assets/1559bcc4-daf2-4593-9bb7-689de4cff0a1" width="100" height="100" alt="LDTS"/></a></td>
+    <td style="text-align:center;"><a href="https://github.com/FEUP-LTW-2024/ltw-project-2024-ltw04g03"><img src="https://github.com/user-attachments/assets/1559bcc4-daf2-4593-9bb7-689de4cff0a1" width="100" height="100" alt="LDTS"/></a></td>
   </tr>
   <tr>
     <td>BidZenith</td>
     <td>Online auctions website</td>
-    <td><a href="https://github.com/alvaroltorres/lbaw2481"><img src="https://github.com/user-attachments/assets/6147ef05-80b3-4000-9356-36483233245b" width="100" height="100" alt="LDTS"/></a></td>
+    <td style="text-align:center;"><a href="https://github.com/alvaroltorres/lbaw2481"><img src="https://github.com/user-attachments/assets/6147ef05-80b3-4000-9356-36483233245b" width="100" height="100" alt="LDTS"/></a></td>
   </tr>
   <tr>
     <td>Abacus Board Game</td>
