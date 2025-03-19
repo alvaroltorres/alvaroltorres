@@ -47,7 +47,7 @@ Welcome to my GitHub profile! Here are my main projects and contributions:
   <tr>
     <td>LDTS</td>
     <td>Videogame: Saviors of the Solar System</td>
-    <td><a href="https://github.com/FEUP-LDTS-2023/project-l11gr01">Link to ltw-project-2024</a></td>
+    <td><a href="https://github.com/FEUP-LDTS-2023/project-l11gr01">Link to LDTS project</a></td>
   </tr>
   <tr>
     <td>cpd_project1</td>
