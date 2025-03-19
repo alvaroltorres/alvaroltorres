@@ -7,8 +7,7 @@ Welcome to my GitHub profile! Here are my main projects and contributions:
     <th>Project Name</th>
     <th>Description</th>
     <th>Repository Link</th>
-  </tr>![8-removebg-preview](https://github.com/user-attachments/assets/87e9089b-5ea0-405d-8d15-877f7cdca8f9)
-
+  </tr>
   <tr>
     <td>GoX-App</td>
     <td>goX app</td>
