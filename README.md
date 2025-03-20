@@ -67,7 +67,7 @@
     <td>cpd_project1</td>
     <td>Matrix Multiplication Optimizations</td>
     <td style="text-align:center; padding:10px;"><a href="https://github.com/tomasoliveirz/cpd_project1">Link to cpd_project1</a></td>
-    <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20"></td>
+    <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="20"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20"></td>
   </tr>
   <tr>
     <td>RC-Lab2</td>
