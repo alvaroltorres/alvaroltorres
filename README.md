@@ -1,4 +1,5 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Álvaro Torres
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+I'm Álvaro Torres
 
 ### Welcome to my GitHub profile! Here are my main projects and contributions:
 
