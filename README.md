@@ -171,13 +171,16 @@
 
 ### My stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaroltorres)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvaroltorres&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroltorres&layout=compact&langs_count=7"/>   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvaroltorres&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 </div>
 
 
-[![GitHub followers](https://img.shields.io/github/followers/alvaroltorres?style=social)](https://github.com/alvaroltorres?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/alvaroltorres?style=social)](https://github.com/alvaroltorres?tab=repositories)
+<div align="center">
+  <a href="https://github.com/alvaroltorres?tab=followers">
+    <img src="https://img.shields.io/github/followers/alvaroltorres?style=social" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/alvaroltorres?tab=repositories">
+    <img src="https://img.shields.io/github/stars/alvaroltorres?style=social" alt="GitHub stars"/>
+  </a>
+</div>
