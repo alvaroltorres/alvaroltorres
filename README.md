@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Álvaro Torres
 
-Welcome to my GitHub profile! Here are my main projects and contributions:
+### Welcome to my GitHub profile! Here are my main projects and contributions:
 
 <table>
   <tr>
@@ -161,9 +161,9 @@ Welcome to my GitHub profile! Here are my main projects and contributions:
   </tr>
 </table>
 
-Feel free to explore my repositories and reach out if you have any questions! 🚀
+> Feel free to explore my repositories and reach out if you have any questions! 🚀
 
-My stats:
+### My stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaroltorres)](https://github.com/anuraghazra/github-readme-stats)
 
