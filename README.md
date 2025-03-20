@@ -1,5 +1,10 @@
-# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-# I'm Álvaro Torres
+<div align="center">
+  
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="weaving emoji">
+
+  # I'm Álvaro Torres
+
+</div>
 
 ### Welcome to my GitHub profile! Here are my main projects and contributions:
 
