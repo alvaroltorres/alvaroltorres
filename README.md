@@ -31,7 +31,7 @@ Welcome to my GitHub profile! Here are my main projects and contributions:
     <td>electron-scan</td>
     <td>HBK Device Discovery Electron app</td>
     <td style="text-align:center; padding:10px;"><a href="https://github.com/HBM/electron-scan"><img src="https://github.com/user-attachments/assets/22c565ec-7498-4a86-97b0-92378e283c1b" width="100" height="100" alt="electron-scan"/></a></td>
-    <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="20"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="20"> <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="20"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20"></td>
+    <td><img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="20"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="20"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="20"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20"></td>
   </tr>
   <tr>
     <td>Scan-App</td>
@@ -43,7 +43,7 @@ Welcome to my GitHub profile! Here are my main projects and contributions:
     <td>BidZenith</td>
     <td>Online auctions website</td>
     <td style="text-align:center; padding:10px;"><a href="https://github.com/alvaroltorres/lbaw2481"><img src="https://github.com/user-attachments/assets/a9c80923-68ef-49c9-b3ea-4e72212e7f13" width="100" height="100" alt="BidZenith"/></a></td>
-    <td><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="20"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="20"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20"></td>
+    <td><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="20"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="20"></td>
   </tr>
   <tr>
     <td>TechTudo</td>
@@ -55,19 +55,19 @@ Welcome to my GitHub profile! Here are my main projects and contributions:
     <td>Abacus Board Game</td>
     <td>Adversarial Search Methods for Two-Player Board Games (AI)</td>
     <td style="text-align:center; padding:10px;"><a href="https://github.com/DiogoFerreira2004/Abacus">Link to Abacus</a></td>
-    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="20"></td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20"></td>
   </tr>
   <tr>
     <td>LDTS</td>
     <td>Videogame: Saviors of the Solar System</td>
     <td style="text-align:center; padding:10px;"><a href="https://github.com/FEUP-LDTS-2023/project-l11gr01">Link to Saviors of the Solar System</a></td>
-    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="20"></td>
+    <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="20"></td>
   </tr>
   <tr>
     <td>cpd_project1</td>
     <td>Matrix Multiplication Optimizations</td>
     <td style="text-align:center; padding:10px;"><a href="https://github.com/tomasoliveirz/cpd_project1">Link to cpd_project1</a></td>
-    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20"></td>
+    <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20"></td>
   </tr>
   <tr>
     <td>RC-Lab2</td>
@@ -103,7 +103,7 @@ Welcome to my GitHub profile! Here are my main projects and contributions:
     <td>Project1DA</td>
     <td>A data analysis project</td>
     <td style="text-align:center; padding:10px;"><a href="https://github.com/alvaroltorres/Project1DA">Link to Project1DA</a></td>
-    <td><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="20"></td>
+    <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="20"></td>
   </tr>
   <tr>
     <td>aedproject2</td>
@@ -127,7 +127,7 @@ Welcome to my GitHub profile! Here are my main projects and contributions:
     <td>designpatterns</td>
     <td>A collection of design pattern implementations</td>
     <td style="text-align:center; padding:10px;"><a href="https://github.com/alvaroltorres/designpatterns">Link to designpatterns</a></td>
-    <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="20"></td>
+    <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="20"></td>
   </tr>
   <tr>
     <td>numbers</td>
@@ -157,7 +157,7 @@ Welcome to my GitHub profile! Here are my main projects and contributions:
     <td>alvaroltorres</td>
     <td>Personal GitHub profile repo</td>
     <td style="text-align:center; padding:10px;"><a href="https://github.com/alvaroltorres/alvaroltorres">Link to alvaroltorres</a></td>
-    <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="20"></td>
+    <td></td>
   </tr>
 </table>
 
