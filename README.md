@@ -19,6 +19,11 @@ Welcome to my GitHub profile! Here are my main projects and contributions:
     <td style="text-align:center; padding:10px;"><a href="https://github.com/GoXapp/GoX-App-backend"><img src="https://github.com/user-attachments/assets/87e9089b-5ea0-405d-8d15-877f7cdca8f9" width="100" height="100" alt="GoX-App-backend"/></a></td>
   </tr>
   <tr>
+    <td>DigiWater mobile app</td>
+    <td>Water Quality Reports</td>
+    <td style="text-align:center; padding:10px;"><a href="https://github.com/FEUP-LEIC-ES-2023-24/2LEIC03T3"><img src="https://github.com/user-attachments/assets/f9fd9cc8-1ff2-4678-9ca6-3af443a78c28" width="100" height="100" alt="DigiWater mobile app"/></a></td>
+  </tr>
+  <tr>
     <td>electron-scan</td>
     <td>HBK Device Discovery Electron app</td>
     <td style="text-align:center; padding:10px;"><a href="https://github.com/HBM/electron-scan"><img src="https://github.com/user-attachments/assets/22c565ec-7498-4a86-97b0-92378e283c1b" width="100" height="100" alt="electron-scan"/></a></td>
@@ -29,19 +34,24 @@ Welcome to my GitHub profile! Here are my main projects and contributions:
     <td style="text-align:center; padding:10px;"><a href="https://github.com/HBM/Scan-App"><img src="https://github.com/user-attachments/assets/22c565ec-7498-4a86-97b0-92378e283c1b" width="100" height="100" alt="Scan-App"/></a></td>
   </tr>
   <tr>
-    <td>Software Engineering Course</td>
-    <td>DigiWater mobile app</td>
-    <td style="text-align:center; padding:10px;"><a href="https://github.com/FEUP-LEIC-ES-2023-24/2LEIC03T3"><img src="https://github.com/user-attachments/assets/f9fd9cc8-1ff2-4678-9ca6-3af443a78c28" width="100" height="100" alt="Software Engineering Course"/></a></td>
+    <td>BidZenith</td>
+    <td>Online auctions website</td>
+    <td style="text-align:center; padding:10px;"><a href="https://github.com/alvaroltorres/lbaw2481"><img src="https://github.com/user-attachments/assets/a9c80923-68ef-49c9-b3ea-4e72212e7f13" width="100" height="100" alt="BidZenith"/></a></td>
+  </tr>
+  <tr>
+    <td>TechTudo</td>
+    <td>A website for buying and selling of pre-loved phones</td>
+    <td style="text-align:center; padding:10px;"><a href="https://github.com/FEUP-LTW-2024/ltw-project-2024-ltw04g03"><img src="https://github.com/user-attachments/assets/1559bcc4-daf2-4593-9bb7-689de4cff0a1" width="100" height="100" alt="TechTudo"/></a></td>
+  </tr>
+  <tr>
+    <td>Abacus Board Game</td>
+    <td>Adversarial Search Methods for Two-Player Board Games (AI)</td>
+    <td style="text-align:center; padding:10px;"><a href="https://github.com/DiogoFerreira2004/Abacus">Link to Abacus</a></td>
   </tr>
   <tr>
     <td>LDTS</td>
-    <td>Saviors of the SOlar System Videogame</td>
-    <td style="text-align:center; padding:10px;"><a href="https://github.com/FEUP-LDTS-2023/project-l11gr01"><img src="https://github.com/user-attachments/assets/1559bcc4-daf2-4593-9bb7-689de4cff0a1" width="100" height="100" alt="LDTS"/></a></td>
-  </tr>
-  <tr>
-    <td>Abacus</td>
-    <td>Board Game with AI</td>
-    <td style="text-align:center; padding:10px;"><a href="https://github.com/DiogoFerreira2004/Abacus">Link to Abacus</a></td>
+    <td>Videogame: Saviors of the Solar System</td>
+    <td style="text-align:center; padding:10px;"><a href="https://github.com/FEUP-LDTS-2023/project-l11gr01">Link to Saviors of the Solar System</a></td>
   </tr>
   <tr>
     <td>cpd_project1</td>
@@ -49,19 +59,14 @@ Welcome to my GitHub profile! Here are my main projects and contributions:
     <td style="text-align:center; padding:10px;"><a href="https://github.com/tomasoliveirz/cpd_project1">Link to cpd_project1</a></td>
   </tr>
   <tr>
-    <td>ltw-project-2024</td>
-    <td>A web development project for LTW 2024</td>
-    <td style="text-align:center; padding:10px;"><a href="https://github.com/FEUP-LTW-2024/ltw-project-2024-ltw04g03">Link to ltw-project-2024</a></td>
+    <td>RC-Lab2</td>
+    <td>A computer networks lab project</td>
+    <td style="text-align:center; padding:10px;"><a href="https://github.com/alvaroltorres/RC-Lab2">Link to RC-Lab2</a></td>
   </tr>
   <tr>
-    <td>TP1-PFL</td>
-    <td>A Haskell project for functional programming</td>
-    <td style="text-align:center; padding:10px;"><a href="https://github.com/alvaroltorres/TP1-PFL">Link to TP1-PFL</a></td>
-  </tr>
-  <tr>
-    <td>Project1DA</td>
-    <td>A data analysis project</td>
-    <td style="text-align:center; padding:10px;"><a href="https://github.com/alvaroltorres/Project1DA">Link to Project1DA</a></td>
+    <td>rc-project</td>
+    <td>A computer networks lab project</td>
+    <td style="text-align:center; padding:10px;"><a href="https://github.com/tomasoliveirz/rc-project">Link to rc-project</a></td>
   </tr>
   <tr>
     <td>PFL_project2</td>
@@ -69,9 +74,9 @@ Welcome to my GitHub profile! Here are my main projects and contributions:
     <td style="text-align:center; padding:10px;"><a href="https://github.com/h0leee/PFL_project2">Link to PFL_project2</a></td>
   </tr>
   <tr>
-    <td>RC-Lab2</td>
-    <td>A computer networks lab project</td>
-    <td style="text-align:center; padding:10px;"><a href="https://github.com/alvaroltorres/RC-Lab2">Link to RC-Lab2</a></td>
+    <td>TP1-PFL</td>
+    <td>A Haskell project for functional programming</td>
+    <td style="text-align:center; padding:10px;"><a href="https://github.com/alvaroltorres/TP1-PFL">Link to TP1-PFL</a></td>
   </tr>
   <tr>
     <td>Project2DA</td>
@@ -79,9 +84,9 @@ Welcome to my GitHub profile! Here are my main projects and contributions:
     <td style="text-align:center; padding:10px;"><a href="https://github.com/alvaroltorres/Project2DA">Link to Project2DA</a></td>
   </tr>
   <tr>
-    <td>rc-project</td>
-    <td>A computer networks lab project</td>
-    <td style="text-align:center; padding:10px;"><a href="https://github.com/tomasoliveirz/rc-project">Link to rc-project</a></td>
+    <td>Project1DA</td>
+    <td>A data analysis project</td>
+    <td style="text-align:center; padding:10px;"><a href="https://github.com/alvaroltorres/Project1DA">Link to Project1DA</a></td>
   </tr>
   <tr>
     <td>aedproject2</td>
