@@ -168,3 +168,8 @@
 </table>
 
 > Feel free to explore my repositories and reach out if you have any questions! 🚀
+> Make sure to contact me for inquiries or if you have questions, want to collaborate or have interest in my projects!
+
+<h3 align = "center" ><a href="mailto:alvaroldaatorres@gmail.com">Contact me!</a></h3>
+
+![](https://hit.yhype.me/github/profile?user_id=72668966)
