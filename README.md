@@ -10,11 +10,6 @@
     <img 
       src="https://visitor-badge.laobi.icu/badge?page_id=alvaroltorres.visitor-badge" 
       alt="Visitors"
-    />
-    <img 
-      src="https://img.shields.io/github/followers/alvaroltorres?label=Follow&style=social" 
-      alt="GitHub Followers"
-    />
 </div>
 
 ### Welcome to my GitHub profile! Here are my main projects and contributions:
