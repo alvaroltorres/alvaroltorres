@@ -169,13 +169,6 @@
 
 > Feel free to explore my repositories and reach out if you have any questions! 🚀
 
-### My stats:
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvaroltorres&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-</div>
-
-
 <div align="center">
   <a href="https://github.com/alvaroltorres?tab=followers">
     <img src="https://img.shields.io/github/followers/alvaroltorres?style=social" alt="GitHub followers"/>
