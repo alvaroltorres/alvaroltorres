@@ -168,12 +168,3 @@
 </table>
 
 > Feel free to explore my repositories and reach out if you have any questions! 🚀
-
-<div align="center">
-  <a href="https://github.com/alvaroltorres?tab=followers">
-    <img src="https://img.shields.io/github/followers/alvaroltorres?style=social" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/alvaroltorres?tab=repositories">
-    <img src="https://img.shields.io/github/stars/alvaroltorres?style=social" alt="GitHub stars"/>
-  </a>
-</div>
