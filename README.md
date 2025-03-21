@@ -6,6 +6,17 @@
 
 </div>
 
+<div align="center">
+    <img 
+      src="https://visitor-badge.laobi.icu/badge?page_id=alvaroltorres.visitor-badge" 
+      alt="Visitors"
+    />
+    <img 
+      src="https://img.shields.io/github/followers/alvaroltorres?label=Follow&style=social" 
+      alt="GitHub Followers"
+    />
+</div>
+
 ### Welcome to my GitHub profile! Here are my main projects and contributions:
 
 <table>
@@ -167,9 +178,10 @@
   </tr>
 </table>
 
-> Feel free to explore my repositories and reach out if you have any questions! 🚀
-> Make sure to contact me for inquiries or if you have questions, want to collaborate or have interest in my projects!
+> Feel free to explore my repositories! 🚀
+> 
+> Make sure to reach out for inquiries or if you have questions, want to collaborate or have interest in my projects!
 
 <h3 align = "center" ><a href="mailto:alvaroldaatorres@gmail.com">Contact me!</a></h3>
 
-![](https://hit.yhype.me/github/profile?user_id=72668966)
+![](https://hit.yhype.me/github/profile?user_id=96893814)
