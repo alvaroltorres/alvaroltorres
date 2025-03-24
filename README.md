@@ -131,7 +131,7 @@
   <tr>
     <td>Projeto-AED</td>
     <td>A project for algorithms and data structures</td>
-    <td style="text-align:center; padding:10px;"><a href="https://github.com/TroxcsmeI/Projeto-AED">Link to Projeto-AED</a></td>
+    <td style="text-align:center; padding:10px;"><a href="https://github.com/Troxcsmel/Projeto-AED">Link to Projeto-AED</a></td>
     <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="20"></td>
   </tr>
   <tr>
