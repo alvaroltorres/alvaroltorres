@@ -35,7 +35,7 @@
   <tr>
     <td>DigiWater mobile app</td>
     <td>Water Quality Reports</td>
-    <td style="text-align:center; padding:10px;"><a href="https://github.com/FEUP-LEIC-ES-2023-24/2LEIC03T3"><img src="https://github.com/user-attachments/assets/f9fd9cc8-1ff2-4678-9ca6-3af443a78c28" width="100" height="100" alt="DigiWater mobile app"/></a></td>
+    <td style="text-align:center; padding:10px;"><a href="https://github.com/alvaroltorres/DigiWater"><img src="https://github.com/user-attachments/assets/f9fd9cc8-1ff2-4678-9ca6-3af443a78c28" width="100" height="100" alt="DigiWater mobile app"/></a></td>
     <td><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="20"></td>
   </tr>
   <tr>
