@@ -92,6 +92,12 @@
     <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="20"></td>
   </tr>
   <tr>
+    <td>Gamer's Gym</td>
+    <td>Videogame: Gamer's Gym</td>
+    <td style="text-align:center; padding:10px;"><a href="https://github.com/alvaroltorres/gamers-gym">Link to Gamer's Gym</a></td>
+    <td><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="20"></td>
+  </tr>
+  <tr>
     <td>Parallel and Distributed Computing Projects</td>
     <td>Matrix Multiplication Optimizations and Java Distributed Client-Server Chat System</td>
     <td style="text-align:center; padding:10px;"><a href="https://github.com/alvaroltorres/parallel-distributed-computing">Link to Parallel and Distributed Computing Projects</a></td>
