@@ -63,8 +63,8 @@
     <td>Steel Plate Defect Prediction: Supervised Learning techniques in the context of classification problems</td>
     <td style="text-align:center; padding:10px;"><a href="https://github.com/alvaroltorres/ai_supervisedlearning">Link to project</a></td>
     <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20">
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="20">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20">
     </td>
 </tr>
   <tr>
