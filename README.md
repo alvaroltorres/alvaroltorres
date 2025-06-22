@@ -208,6 +208,11 @@
   </tr>
 </table>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvaroltorres&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroltorres&layout=compact&langs_count=7&theme=white"/>   
+</div>
+
 > Feel free to explore my repositories!
 > 
 > Make sure to reach out for inquiries or if you have questions, want to collaborate or have interest in my projects!
