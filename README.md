@@ -58,6 +58,12 @@
     <td style="text-align:center; padding:10px;"><a href="https://github.com/HBM/Scan-App"><img src="https://github.com/user-attachments/assets/22c565ec-7498-4a86-97b0-92378e283c1b" width="100" height="100" alt="Scan-App"/></a></td>
     <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="20"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="20"></td>
   </tr>
+   <tr>
+    <td>AI Supervised Learning Models</td>
+    <td>Steel Plate Defect Prediction: Supervised Learning techniques in the context of classification problems</td>
+    <td style="text-align:center; padding:10px;"><a href="https://github.com/alvaroltorres/ai_supervisedlearning">Link to project</a></td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20"></td>
+  </tr>
   <tr>
     <td>BidZenith</td>
     <td>Online auctions website</td>
@@ -83,10 +89,23 @@
     <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="20"></td>
   </tr>
   <tr>
-    <td>cpd_project1</td>
-    <td>Matrix Multiplication Optimizations</td>
-    <td style="text-align:center; padding:10px;"><a href="https://github.com/tomasoliveirz/cpd_project1">Link to cpd_project1</a></td>
-    <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="20"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20"></td>
+    <td>Parallel and Distributed Computing Projects</td>
+    <td>Matrix Multiplication Optimizations and Java Distributed Client-Server Chat System</td>
+    <td style="text-align:center; padding:10px;"><a href="https://github.com/alvaroltorres/parallel-distributed-computing">Link to Parallel and Distributed Computing Projects</a></td>
+    <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="20"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="20"></td>
+  </tr>
+   <tr>
+    <td>Computer Graphics Project</td>
+    <td>A 3D graphics project developed for the Computer Graphics course at FEUP</td>
+    <td style="text-align:center; padding:10px;"><a href="https://github.com/alvaroltorres/computer-graphics">Link to Computer Graphics Project</a></td>
+    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="20"></td>
+  </tr>
+  </tr>
+   <tr>
+    <td>Compilers Project</td>
+    <td>Working compiler for a simple, but realistic high level programming language (Java--)</td>
+    <td style="text-align:center; padding:10px;"><a href="https://github.com/alvaroltorres/compilers">Link to Compiler</a></td>
+    <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="20"></td>
   </tr>
   <tr>
     <td>RC-Lab2</td>
