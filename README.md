@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>goX-App-backend</td>
-    <td>Backend for the GoX-App</td>
+    <td>Backend for the goX app</td>
     <td style="text-align:center; padding:10px;"><a href="https://github.com/GoXapp/GoX-App-backend"><img src="https://github.com/user-attachments/assets/87e9089b-5ea0-405d-8d15-877f7cdca8f9" width="100" height="100" alt="GoX-App-backend"/></a></td>
     <td><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="20"></td>
   </tr>
