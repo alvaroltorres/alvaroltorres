@@ -11,7 +11,7 @@
       alt="Visitors"
 </div>
 
-### Welcome to my GitHub profile! Here are my main projects and contributions:
+### Welcome to my GitHub profile! Here are my main open-source projects and contributions:
 
 <table>
   <tr>
