@@ -80,6 +80,12 @@
     <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20"></td>
   </tr>
   <tr>
+    <td>Popout</td>
+    <td>Visual Search Game</td>
+    <td style="text-align:center; padding:10px;"><a href="https://github.com/alvaroltorres/popout">Link to Popout</a></td>
+    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="20"></td>
+  </tr>
+  <tr>
     <td>LDTS</td>
     <td>Videogame: Saviors of the Solar System</td>
     <td style="text-align:center; padding:10px;"><a href="https://github.com/FEUP-LDTS-2023/project-l11gr01">Link to Saviors of the Solar System</a></td>
